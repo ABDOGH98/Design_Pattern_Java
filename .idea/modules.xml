@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Composite/Composite.iml" filepath="$PROJECT_DIR$/Composite/Composite.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/Decorator/Decorator.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer/Observer.iml" filepath="$PROJECT_DIR$/Observer/Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/State/State.iml" filepath="$PROJECT_DIR$/State/State.iml" />
       <module fileurl="file://$PROJECT_DIR$/design pattern.iml" filepath="$PROJECT_DIR$/design pattern.iml" />
     </modules>
   </component>
